@@ -7,3 +7,5 @@ module.exports = {
 // export default {
 //   text: 'demo'
 // }
+
+console.log('改变modualeA')
